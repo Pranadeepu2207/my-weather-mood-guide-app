@@ -24,7 +24,7 @@ function displayWeatherMood(weatherCondition) {
             mood = "☀️ It's bright! Go outside and feel the sun.";
             break;
         case "clear":
-            mood = "☀️ It's bright! Go outside and feel the sun.";
+            mood = "It's clear! Go outside and feel the weather.";
             break;
         case "partly cloudy":
             mood = "🌤 A little cloudy, a little sunny—perfect for reflection.";
